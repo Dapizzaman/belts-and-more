@@ -1,0 +1,14 @@
+    
+    "type": "Conveyor",
+    "name": "Surge Phase Conveyor",
+	"description": "Conveyor made from Phase fabric and given the power of light speed transporting.",
+    "category": "distribution",
+    "health": 105,
+    "speed": 0.21,
+    "displayedSpeed":30,
+    "requirements": [
+        {"item": "surge-alloy", "amount": 1},
+        {"item": "phase-fabric", "amount": 1}
+        {"item": "titanium", "amount": 1}
+    ],			
+    "research": "thorium-conveyor"
