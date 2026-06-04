@@ -1,0 +1,17 @@
+{
+    "type": "ItemBridge",
+    "name": "Fast speed bridge",
+	"description": "significantly faster then vanilla and double the length.",
+    "category": "distribution",
+    "health": 60,
+    "range": 8,
+    "transportTime": 3.5,
+    "hasPower": false,
+    "bufferCapacity": 21,
+    "requirements": [
+        {"item": "copper", "amount": 6},
+	{"item": "lead", "amount": 6},
+	{"item": "metaglass", "amount": 2},
+    ],
+    "research": "bridge-conveyor"
+}

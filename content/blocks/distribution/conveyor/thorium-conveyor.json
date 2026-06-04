@@ -1,0 +1,15 @@
+{
+    "type": "Conveyor",
+    "name": " Thorium Conveyor",
+	"description": "Conveyor made from  Thorium.",
+    "category": "distribution",
+    "health": 90,
+    "speed": .14,
+    "displayedSpeed":18,
+    "requirements": [
+        {"item": "metaglass", "amount": 1},
+        {"item": "thorium", "amount": 1}
+        {"item": "titanium", "amount": 1}
+    ],			
+    "research": "titanium-conveyor"
+}

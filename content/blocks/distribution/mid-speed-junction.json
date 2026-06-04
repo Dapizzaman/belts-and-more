@@ -1,0 +1,14 @@
+{ 
+  "type": "junction",
+   "name": "Mid Speed Junction",
+       "description": "Slightly faster than vanilla.",
+   "category": "distribution",
+   "health": 40,
+   "speed": 18,
+   "capacity": 6,
+   "requirements": [
+      {"item": "copper", "amount": 3}
+      {"item":"scrap", "amount": 2}
+   ],
+   "research": "junction"
+}

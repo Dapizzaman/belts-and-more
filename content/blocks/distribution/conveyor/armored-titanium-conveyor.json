@@ -1,0 +1,15 @@
+{
+    "type": "ArmoredConveyor",
+    "name": "Armored Titanium Conveyor",
+	"description": "Armored titanium conveyor more health and slightly faster then vanilla.",
+    "category": "distribution",
+    "health": 290,
+    "speed": 0.08,
+    "displayedSpeed":10,
+    "requirements": [
+        {"item": "copper", "amount": 1},
+        {"item": "lead", "amount": 2},
+        {"item": "titanium", "amount": 2}
+    ],
+    "research": "titanium-conveyor"
+}

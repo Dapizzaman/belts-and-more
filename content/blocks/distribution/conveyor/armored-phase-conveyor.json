@@ -1,0 +1,14 @@
+    
+    "type": "Conveyor",
+    "name": "Armored Phase Fabric Conveyor",
+	"description": "Armored Conveyor made from Phase fabric and given the power of light speed transporting.",
+    "category": "distribution",
+    "health": 350,
+    "speed": .21,
+    "displayedSpeed":18,
+    "requirements": [
+        {"item": "metaglass", "amount": 2},
+        {"item": "phase-fabric", "amount": 2}
+        {"item": "titanium", "amount": 2}
+    ],			
+    "research": "thorium-conveyor"

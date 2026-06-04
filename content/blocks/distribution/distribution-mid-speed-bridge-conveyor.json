@@ -1,0 +1,17 @@
+{
+    "type": "ItemBridge",
+    "name": "Mid speed bridge",
+	"description": "slightly faster then the vanilla and double the length.",
+    "category": "distribution",
+    "health": 50,
+    "range": 8,
+    "transportTime": 4.5,
+    "hasPower": false,
+    "bufferCapacity": 21,
+    "requirements": [
+        {"item": "copper", "amount": 6},
+	{"item": "lead", "amount": 6},
+	{"item": "silicon", "amount": 2},
+    ],
+    "research": "bridge-conveyor"
+}

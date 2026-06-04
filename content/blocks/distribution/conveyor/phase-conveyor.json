@@ -1,0 +1,14 @@
+    
+    "type": "Conveyor",
+    "name": "Phase Fabric Conveyor",
+	"description": "Conveyor made from Phase fabric and given the power of light speed transporting.",
+    "category": "distribution",
+    "health": 105,
+    "speed": .21,
+    "displayedSpeed":18,
+    "requirements": [
+        {"item": "metaglass", "amount": 2},
+        {"item": "phase-fabric", "amount": 2}
+        {"item": "titanium", "amount": 1}
+    ],			
+    "research": "thorium-conveyor"

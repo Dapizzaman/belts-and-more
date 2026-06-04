@@ -1,0 +1,17 @@
+{
+    "type": "ItemBridge",
+    "name": "Armored Fast Speed Bridge",
+	"description": "Same speed and Fast speed bridge but armored.",
+    "category": "distribution",
+    "health": 230,
+    "range": 8,
+    "transportTime": 3.5,
+    "hasPower": false,
+    "bufferCapacity": 21,
+    "requirements": [
+        {"item": "copper", "amount": 6},
+	{"item": "lead", "amount": 6},
+	{"item": "titanium", "amount": 4},
+    ],
+    "research": "bridge-conveyor"
+}

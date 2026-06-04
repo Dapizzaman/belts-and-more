@@ -1,0 +1,17 @@
+{
+    "type": "ItemBridge",
+    "name": "Armored Mid Speed Bridge",
+	"description": "Same speed and Mid speed bridge but armored.",
+    "category": "distribution",
+    "health": 160,
+    "range": 8,
+    "transportTime": 4.5,
+    "hasPower": false,
+    "bufferCapacity": 21,
+    "requirements": [
+        {"item": "copper", "amount": 6},
+	{"item": "lead", "amount": 6},
+	{"item": "titanium", "amount": 4},
+    ],
+    "research": "bridge-conveyor"
+}

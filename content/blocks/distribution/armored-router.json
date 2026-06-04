@@ -1,0 +1,12 @@
+{
+    "type": "Router",
+    "name": "Armored Router",
+	"description": "Stronger than vanilla Router.",
+    "category": "distribution",
+    "health": 180,
+    "requirements": [
+        {"item": "copper", "amount": 2},
+        {"item": "titanium", "amount": 2}
+    ],
+    "research": "router"
+}

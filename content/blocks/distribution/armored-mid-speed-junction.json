@@ -1,0 +1,15 @@
+{ 
+  "type": "junction",
+   "name": "Armored Mid Speed Junction",
+       "description": "same speed of Mid Speed Junction but armored",
+   "category": "distribution",
+   "health": 140,
+   "speed": 18,
+   "capacity": 6,
+   "requirements": [
+      {"item": "copper", "amount": 6}
+      {"item":"scrap", "amount": 4}
+      {"item":"titanium", "amount": 4}
+   ],
+   "research": "junction"
+}

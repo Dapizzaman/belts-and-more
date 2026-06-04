@@ -1,0 +1,14 @@
+{ 
+  "type": "junction",
+   "name": "fast Speed Junction",
+       "description": "faster than vanilla.",
+   "category": "distribution",
+   "health": 50,
+   "speed": 10,
+   "capacity": 6,
+   "requirements": [
+      {"item": "copper", "amount": 4}
+      {"item":"lead", "amount": 3}
+   ],
+   "research": "junction"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "LiquidBridge",
+    "name": "extended liquid bridge",
+	"description": "significantly extended the lenght of the liquid bridge compared to vanilla.",
+    "category": "liquid",
+    "health": 60,
+    "range": 8,
+    "hasPower": false,
+    "floating": true,
+    "liquidCapacity": 100f,
+    "arrowSpacing": 6f,   
+    "requirements": [
+	{"item": "metaglass", "amount": 16},
+    {"item": "graphite", "amount": 8},
+    ],
+    "research": "bridge-conduit"
+}
+
+           
+
+
