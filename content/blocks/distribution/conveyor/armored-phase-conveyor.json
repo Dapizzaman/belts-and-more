@@ -4,8 +4,8 @@
 	"description": "Armored Conveyor made from Phase fabric and given the power of light speed transporting.",
     "category": "distribution",
     "health": 350,
-    "speed": .21,
-    "displayedSpeed":18,
+    "speed": 0.21,
+    "displayedSpeed":30,
     "requirements": [
         {"item": "metaglass", "amount": 2},
         {"item": "phase-fabric", "amount": 2}
