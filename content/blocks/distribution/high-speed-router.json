@@ -4,8 +4,8 @@
 	"description": "faster than vanilla Router.",
     "category": "distribution",
     "health": 25,
-    "speed": 4,
-    "size": 2,
+    "speed": 1,
+    "size": 1,
     "requirements": [
         {"item": "copper", "amount": 3},
         {"item": "titanium", "amount": 1}
