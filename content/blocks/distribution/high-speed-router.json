@@ -1,0 +1,15 @@
+{
+    "type": "Router",
+    "name": "High Speed Router",
+	"description": "faster than vanilla Router.",
+    "category": "distribution",
+    "health": 25,
+    "speed": 4,
+    "size": 2,
+    "requirements": [
+        {"item": "copper", "amount": 3},
+        {"item": "titanium", "amount": 1}
+        {"item": "phase-fabric", "amount": 1}
+    ],
+    "research": "router"
+}
