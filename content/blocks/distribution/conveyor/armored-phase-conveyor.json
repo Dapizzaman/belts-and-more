@@ -1,5 +1,5 @@
     
-    "type": "Conveyor",
+    "type": "ArmoredConveyor",
     "name": "Armored Surge Phase Conveyor",
 	"description": "Armored Conveyor made from Phase fabric and given the power of light speed transporting.",
     "category": "distribution",
