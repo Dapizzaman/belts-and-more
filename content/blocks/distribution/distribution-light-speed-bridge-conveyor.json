@@ -1,0 +1,21 @@
+{
+    "type": "ItemBridge",
+    "name": "Light speed bridge",
+	"description": "significantly faster then vanilla and double the length.",
+    "category": "distribution",
+    "health": 60,
+    "range": 15,
+    "transportTime": 0.5,
+    "speed": 1,
+    "conductivePower": true,
+    "consumes": {"power": 0.35},
+    "pulse": true,
+    "itemCapacity": 20,
+    "requirements": [
+    {"item": "phase-fabric", "amount": 3},
+	{"item": "graphite", "amount": 4},
+	{"item": "metaglass", "amount": 4},
+    {"item": "surge-alloy", "amount": 2},
+    ],
+    "research": "bridge-conveyor"
+}
