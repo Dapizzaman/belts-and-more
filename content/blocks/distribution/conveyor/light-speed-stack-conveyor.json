@@ -1,0 +1,15 @@
+{
+    "type": "stackConveyor",
+    "name": "Light Speed Stack Conveyor",
+    "description": "this light speed conveyor carry bundles at a much faster speeds than thorium stack conveyor or plastnuim conveyor.",
+    "category": "distribution",
+    "health": 150,
+    "speed": 0.20,
+    "itemCapacity": 12,
+    "requirements": [
+        {"item": "surge-alloy", "amount": 1},
+        {"item": "phase-fabric", "amount": 1},
+        {"item": "plastanium", "amount": 1},
+    ],
+    "research": "Thorium Stack Conveyor"
+}

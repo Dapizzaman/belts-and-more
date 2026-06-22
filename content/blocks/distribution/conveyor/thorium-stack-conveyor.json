@@ -1,0 +1,15 @@
+{
+    "type": "stackConveyor",
+    "name": "Thorium Stack Conveyor",
+    "description": "this thorium conveyor carry bundles at a faster speeds than plastnuim conveyor.",
+    "category": "distribution",
+    "health": 110,
+    "speed": 0.1,
+    "itemCapacity": 10,
+    "requirements": [
+        {"item": "thorium", "amount": 1},
+        {"item": "plastanium", "amount": 2},
+        {"item": "graphite", "amount": 1}
+    ],
+    "research": "plastanium-conveyor"
+}
