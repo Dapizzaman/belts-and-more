@@ -11,5 +11,5 @@
         {"item": "phase-fabric", "amount": 1},
         {"item": "plastanium", "amount": 1},
     ],
-    "research": "Thorium Stack Conveyor"
+    "research": "thorium-stack-conveyor"
 }
